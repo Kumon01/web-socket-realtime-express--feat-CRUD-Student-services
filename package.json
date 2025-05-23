@@ -1,0 +1,21 @@
+{
+  "name": "pi_medsos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumon01/web-socket-realtime-express--feat-CRUD-Student-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kumon01/web-socket-realtime-express--feat-CRUD-Student-services/issues"
+  },
+  "homepage": "https://github.com/Kumon01/web-socket-realtime-express--feat-CRUD-Student-services#readme"
+}
